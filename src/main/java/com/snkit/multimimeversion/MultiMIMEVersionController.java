@@ -24,7 +24,9 @@ public class MultiMIMEVersionController {
 		return list;
 		
 	}
-	
+	/*
+	 * Rest service version
+	 */
 	
 	@RequestMapping( value= "/display",
 			method=RequestMethod.GET,
